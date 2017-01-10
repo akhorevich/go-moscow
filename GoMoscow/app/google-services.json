@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803327082204",
+    "firebase_url": "https://go-moscow-2682e.firebaseio.com",
+    "project_id": "go-moscow-2682e",
+    "storage_bucket": "go-moscow-2682e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803327082204:android:984e52d28c91310b",
+        "android_client_info": {
+          "package_name": "nortti.ru.gomoscow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803327082204-7glueljjnvj24ntuumrd76pfpb6t7hqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nortti.ru.gomoscow",
+            "certificate_hash": "6C264E2F789B5E2D4F2C5440507B279E05A4B76E"
+          }
+        },
+        {
+          "client_id": "803327082204-s7932mpiqsqfhd4kvjbh5evql34b64vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy36VzRORXBW-_vMXZU1NrWC9voT0EuGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803327082204-s7932mpiqsqfhd4kvjbh5evql34b64vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
